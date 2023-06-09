@@ -71,6 +71,7 @@ h1, h2, h3{
     font-size: 1.7rem;
     font-weight: 300;
     line-height: 1.8;
+    text-align: justify;
 }
 
 /* header */
@@ -118,7 +119,7 @@ h1, h2, h3{
 /* about */
 .about-left{
     margin-bottom: 4rem;
-    height: 480px;
+    height: 1000;
     overflow: hidden;
 }
 /* button down and title -reusable */
